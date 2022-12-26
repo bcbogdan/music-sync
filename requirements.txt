@@ -63,7 +63,7 @@ tox==2.7.0
 urllib3==1.22
 validictory==1.1.1
 virtualenv==15.1.0
-wheel==0.24.0
+wheel==0.38.1
 whichcraft==0.4.1
 wsgiref==0.1.2
 zope.interface==4.0.5
